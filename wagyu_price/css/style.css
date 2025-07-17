@@ -68,5 +68,6 @@ footer {
 .card {
   display: block;
   text-decoration: none;
+  border-radius: 0;
 }
 
